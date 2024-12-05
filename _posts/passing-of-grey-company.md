@@ -1,10 +1,10 @@
 ---
 title: "How to use flatMap in Java/JavaScript"
-excerpt: "Java 和 JavaScript 中 flatMap 的用法."
+excerpt: "在现代编程中，`flatMap` 是一个非常强大的函数式编程工具，能够处理集合数据。虽然 Java 和 JavaScript 的 `flatMap` 概念类似，但在实现和应用上存在一些差异。本文将探讨这两种语言中 `flatMap` 的用法和实例。
+"
 date: "2024-06-22"
 ---
 
-# 函数式编程中的 flatMap
 
 ## Java 和 JavaScript 中 flatMap 的用法
 
